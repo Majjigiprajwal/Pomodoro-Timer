@@ -20,11 +20,11 @@ body {
 }
 .header h1{
     font-family:'Lobster',sans-serif ;
-    font-size: 80px;
+    font-size: 100px;
 }
 
 .timer-display {
-    font-size: 98px;
+    font-size: 100px;
     margin-bottom: 30px;
     color:black;
     text-shadow: 0 0 10px rgb(130, 130,130);
